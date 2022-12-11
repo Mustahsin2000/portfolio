@@ -2,6 +2,7 @@ import React from 'react';
 import { FaArrowCircleRight } from 'react-icons/fa';
 // import imag from '../images/rafi1.jpg'
 import {Link} from 'react-scroll';
+
 const Home = () => {
     return (
         <div className="hero min-h-screen rounded" style={{ backgroundImage: `url("https://www.onlinecoursereport.com/wp-content/uploads/2020/07/shutterstock_394793860-1024x784.jpg")` }}>
@@ -15,7 +16,9 @@ const Home = () => {
                     </Link>
                 </div>
             </div>
+           
         </div>
+        
     );
 };
 
