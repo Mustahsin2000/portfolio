@@ -1,7 +1,7 @@
 import React from 'react';
-import img1 from '../images/Screenshot (83).png'
-import img2 from '../images/Screenshot (84).png'
-import img3 from '../images/Screenshot (85).png'
+import img1 from '../images/1.PNG'
+import img2 from '../images/2.PNG'
+import img3 from '../images/3.PNG'
 const Projects = () => {
     return (
         <div name="projects" className='grid lg:grid-cols-3 md:grid-cols-2 sm:grid-cols-1 gap-5 mt-11 mb-21'>
