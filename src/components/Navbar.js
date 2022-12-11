@@ -49,12 +49,12 @@ const Navbar = () => {
         },
         {
             id: 4,
-            link: "projects",
+            link: "experience",
         },
         {
             id: 5,
-            link: "Blogs",
-        },
+            link: "contact",
+        }
     ];
 
     return (

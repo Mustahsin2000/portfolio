@@ -4,7 +4,7 @@ import img2 from '../images/Screenshot (84).png'
 import img3 from '../images/Screenshot (85).png'
 const Projects = () => {
     return (
-        <div name="projects" className='grid lg:grid-cols-3 md:grid-cols-2 sm:grid-cols-1 gap-5 mt-11 mb-11'>
+        <div name="projects" className='grid lg:grid-cols-3 md:grid-cols-2 sm:grid-cols-1 gap-5 mt-11 mb-21'>
             <div className="card shadow-xl">
                 <figure><img src={img1} alt="Shoes" /></figure>
                 <div className="card-body">
